@@ -1,0 +1,22 @@
+{
+  "name": "MUI",
+  "version": "0.1.0",
+  "summary": "A short description of MUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/987625059@qq.com/MUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "987625059@qq.com": "ccyang008@163.com"
+  },
+  "source": {
+    "git": "https://github.com/987625059@qq.com/MUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "MUI/Classes/**/*"
+}

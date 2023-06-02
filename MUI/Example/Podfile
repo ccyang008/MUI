@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MUI_Example' do
+  pod 'MUI', :path => '../'
+
+  target 'MUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
